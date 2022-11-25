@@ -2,6 +2,8 @@
 
 📈 Open-source projects created by the SAIS Hack Club community.
 
+![banner](banner.jpg)
+
 ## What is SAIS Hack Club?
 
 SAIS Hack Club is a student-led coding club at Stamford American International School, Singapore. We meet every week to learn how to code and build cool projects together. We also host workshops, hackathons, and other events throughout the year.
