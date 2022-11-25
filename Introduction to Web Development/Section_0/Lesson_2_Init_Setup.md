@@ -31,6 +31,8 @@ This will print out a tree-like structure of all of the files and folders in the
 │       ├── [ ... ]
 │   └── styles
 │       ├── [ ... ]
+├── .gitignore
+├── LICENSE
 └── index.html
 ```
 
@@ -49,6 +51,8 @@ Let's take a look at each of these files and folders:
 | `assets` | This folder contains all of the images and stylesheets that we will use in our website. |
 | `assets/images` | This folder contains all of the images that we will use in our website. |
 | `assets/styles` | This folder contains all of the stylesheets that we will use in our website. |
+| `.gitignore` | This file tells Git which files and folders to ignore. |
+| `LICENSE` | This file contains the license for the project. |
 | `index.html` | This is the HTML file that contains the content of our website. |
 
-### TODO: Finish lesson 2.
+### TODO: Finish lesson 2
