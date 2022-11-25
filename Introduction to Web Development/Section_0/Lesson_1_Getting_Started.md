@@ -1,6 +1,6 @@
 # Getting Started
 
-### Why should I learn web development?
+## Why should I learn web development?
 
 **tl; dr: Websites are everywhere, and knowing how to make one is a really useful (and fun!) skill to have.**
 
