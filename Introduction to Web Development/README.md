@@ -1,5 +1,7 @@
 # Introduction to Web Development
 
+![banner](banner.jpg)
+
 Welcome to SAIS Hack Club's Introduction to Web Development project! This project is designed to teach you the basics of web development, and to help you build your first website. This project is divided into 3 parts:
 
 - [Section 0: Getting Started](./Section_0/Lesson_1_Getting_Started.md)
