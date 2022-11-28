@@ -8,6 +8,15 @@ To get started, we need to clone the ✨special✨ repository that contains all 
 git clone https://github.com/SAIS-Hack-Club/build-your-own-website.git
 ```
 
+*P.S. I suggest making a folder called `Projects` or something similar, and then cloning the repository into that folder. This will make it easier to find the project files later on. To do this, we can run the following command:*
+
+```bash
+cd Documents
+mkdir Projects
+cd Projects
+git clone ...
+```
+
 This will create a new folder called `build-your-own-website` in our current directory. We can change into this directory by running the following command:
 
 ```bash
@@ -55,4 +64,8 @@ Let's take a look at each of these files and folders:
 | `LICENSE` | This file contains the license for the project. |
 | `index.html` | This is the HTML file that contains the content of our website. |
 
-### TODO: Finish lesson 2
+Now, [we can start coding!](../Section_1/Lesson_1_Intro_to_HTML.md) 🎉
+
+## A little task for you
+
+Post a screenshot of your VS Code window in the support chat. Make sure to include the `build-your-own-website` folder in the screenshot. We're excited to see what you're working on! 🚀

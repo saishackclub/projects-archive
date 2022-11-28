@@ -18,4 +18,8 @@ Then, we are going to take it a step further and learn how to use **React** to m
 - A text editor (we recommend [Visual Studio Code](https://code.visualstudio.com/))
 - A command line interface (just use the one that comes with your computer)
 
+## A little task for you
+
+Before we get started, go to the support chat and introduce yourself. Tell us your name, where you're from, and what you're excited to learn in this project. We're excited to meet you!
+
 Now, [let's get started!](./Lesson_2_Init_Setup.md) 🚀
