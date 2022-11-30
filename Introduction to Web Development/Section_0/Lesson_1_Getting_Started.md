@@ -22,4 +22,6 @@ Then, we are going to take it a step further and learn how to use **React** to m
 
 Before we get started, go to the support chat and introduce yourself. Tell us your name, where you're from, and what you're excited to learn in this project. We're excited to meet you!
 
+**Note: Check out the kickoff slides for more information about this project here: <https://docs.google.com/presentation/d/1e18y-7lHQRATDVSnOIHdwarRjsNWpbklZWRLpZ8UIEE/edit?usp=sharing>**
+
 Now, [let's get started!](./Lesson_2_Init_Setup.md) 🚀
