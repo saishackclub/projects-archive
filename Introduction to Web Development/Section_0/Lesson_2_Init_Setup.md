@@ -64,8 +64,8 @@ Let's take a look at each of these files and folders:
 | `LICENSE` | This file contains the license for the project. |
 | `index.html` | This is the HTML file that contains the content of our website. |
 
-Now, [we can start coding!](../Section_1/Lesson_1_Intro_to_HTML.md) 🎉
-
 ## A little task for you
 
 Post a screenshot of your VS Code window in the support chat. Make sure to include the `build-your-own-website` folder in the screenshot. We're excited to see what you're working on! 🚀
+
+Now, [we can start coding!](../Section_1/Lesson_1_Intro_to_HTML.md) 🎉

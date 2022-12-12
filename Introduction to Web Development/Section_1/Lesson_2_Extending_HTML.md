@@ -82,3 +82,9 @@ Similarly, the `<audio>` tag is used to embed an audio file. Let's take a look a
 ## A little task for you
 
 Add a couple of new stuff to your site and show them off on the community chat! You now know the basics of HTML, so you can do anything you want with it. Good job - you're now officially a web developer! 🎉
+
+## What's next?
+
+Now that you know the basics of HTML, you can [start learning about CSS.](../Section_2/Lesson_1_Intro_to_CSS.md) CSS is used to style your website, and it's a lot of fun to play around with. 🌈
+
+If you want to look at what we have so far, you can [check out the final code here.](Wrapup.md)
