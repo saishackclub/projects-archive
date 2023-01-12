@@ -64,9 +64,11 @@ Let's take a look at each of these files and folders:
 | `LICENSE`       | This file contains the license for the project.                                         |
 | `index.html`    | This is the HTML file that contains the content of our website.                         |
 
-## Opening the project in VS Code
+## Installing VS Code and opening the project
 
-Now that we've cloned the repository, we can open the project in VS Code. To do this, open VS Code and click on the `File` menu. Then, click on `Open Folder...`. Navigate to the `build-your-own-website` folder and click `Open`.
+Now that we know a little bit about HTML, let's actually start coding. We'll be using a text editor called [Visual Studio Code](https://code.visualstudio.com/). You can download it via Self Service - if you need help installing it, please let me know.
+
+Once you've installed Visual Studio Code, open it up. Now that we've cloned the repository, we can open the project in VS Code. To do this, open VS Code and click on the `File` menu. Then, click on `Open Folder...`. Navigate to the `build-your-own-website` folder and click `Open`.
 
 If you're using VS Code for the first time, you might see a welcome screen. You can close this by clicking on the `Close` button. You should now see the `build-your-own-website` folder in the Explorer pane on the left.
 

@@ -26,12 +26,12 @@ is an HTML element that tells the browser to display the text "Hello, world!" as
 
 Here's a small list of some of the most common HTML elements:
 
-| Element | Description |
-| ------- | ----------- |
+| Element         | Description                                                                                                                              |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | `<h1>` - `<h6>` | These elements are used to display headings. The `<h1>` element is the most important heading and `<h6>` is the least important heading. |
-| `<p>` | This element is used to display a paragraph of text. |
-| `<a>` | This element is used to create a link to another page or to an *anchor* on the same page. |
-| `<img>` | This element is used to display an image. |
+| `<p>`           | This element is used to display a paragraph of text.                                                                                     |
+| `<a>`           | This element is used to create a link to another page or to an *anchor* on the same page.                                                |
+| `<img>`         | This element is used to display an image.                                                                                                |
 
 Additionally, there are a bunch of other elements that you can use to format text, create lists, tables, and more. You can find a list of all of the HTML elements [here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
 
@@ -39,11 +39,7 @@ Additionally, there are a bunch of other elements that you can use to format tex
 
 ## Let's actually start coding
 
-Now that we know a little bit about HTML, let's actually start coding. We'll be using a text editor called [Visual Studio Code](https://code.visualstudio.com/). You can download it via Self Service - if you need help installing it, please let me know.
-
-Once you've installed Visual Studio Code, open it up. We will then open up the `build-your-own-website` folder that we cloned earlier. To do this, we can go to File > Open Folder... and select the `build-your-own-website` folder.
-
-Now, go to the `index.html` file and open it up. You should see something like this:
+Let's return to our VS Code workspace and open up the `index.html` file. You should see something like this:
 
 ```html
 <!DOCTYPE html>

@@ -21,9 +21,9 @@ The `<table>` tag is used to create a table. The `<tr>` tag is used to create a 
 
 This will create a table that looks like this:
 
-First Name | Last Name
----------- | ---------
-John       | Doe
+| First Name | Last Name |
+| ---------- | --------- |
+| John       | Doe       |
 
 ## Adding a list: `<ul>`/`<ol>` and `<li>`
 
