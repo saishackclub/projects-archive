@@ -55,14 +55,20 @@ ls -R
 
 Let's take a look at each of these files and folders:
 
-| File/Folder | Description |
-| ----------- | ----------- |
-| `assets` | This folder contains all of the images and stylesheets that we will use in our website. |
-| `assets/images` | This folder contains all of the images that we will use in our website. |
-| `assets/styles` | This folder contains all of the stylesheets that we will use in our website. |
-| `.gitignore` | This file tells Git which files and folders to ignore. |
-| `LICENSE` | This file contains the license for the project. |
-| `index.html` | This is the HTML file that contains the content of our website. |
+| File/Folder     | Description                                                                             |
+| --------------- | --------------------------------------------------------------------------------------- |
+| `assets`        | This folder contains all of the images and stylesheets that we will use in our website. |
+| `assets/images` | This folder contains all of the images that we will use in our website.                 |
+| `assets/styles` | This folder contains all of the stylesheets that we will use in our website.            |
+| `.gitignore`    | This file tells Git which files and folders to ignore.                                  |
+| `LICENSE`       | This file contains the license for the project.                                         |
+| `index.html`    | This is the HTML file that contains the content of our website.                         |
+
+## Opening the project in VS Code
+
+Now that we've cloned the repository, we can open the project in VS Code. To do this, open VS Code and click on the `File` menu. Then, click on `Open Folder...`. Navigate to the `build-your-own-website` folder and click `Open`.
+
+If you're using VS Code for the first time, you might see a welcome screen. You can close this by clicking on the `Close` button. You should now see the `build-your-own-website` folder in the Explorer pane on the left.
 
 ## A little task for you
 
