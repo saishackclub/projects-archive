@@ -103,7 +103,7 @@ This code tells the browser to display an image with the source `https://i.imgur
 
 Be creative! You can change the text to whatever you want; as your final project, you will be creating your own portfolio website, so you can use this as an opportunity to get some practice with HTML.
 
-### But my image's too big/small!
+### But my image's too big/small
 
 If you want to change the size of your image, you can add the `width` and `height` attributes to the `<img>` tag. For example, if I wanted to make the image 200 pixels wide and 100 pixels tall, I could change the code to the following:
 
