@@ -6,8 +6,9 @@ Welcome to SAIS Hack Club's Introduction to Web Development project! This projec
 
 - [Section 0: Getting Started](./Section_0/Lesson_1_Getting_Started.md)
 - [Section 1: Shipping Your First Website](./Section_1/Lesson_1_Intro_to_HTML.md)
-- Section 2: Adding Interactivity with JavaScript (coming soon!)
-- Section 3: Going Further with React (coming soon!)
+- [Section 2: Styling Your Website](./Section_2/Lesson_1_Intro_to_CSS.md)
+- Section 3: Adding Interactivity with JavaScript (coming soon!)
+- Section 4: Going Further with React (coming soon!)
 
 ## What is the end product?
 
