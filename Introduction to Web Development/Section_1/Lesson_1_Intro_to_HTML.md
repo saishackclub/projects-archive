@@ -115,7 +115,7 @@ If you want to change the size of your image, you can add the `width` and `heigh
 
 Now that we've made some changes, let's save the file. To do this, we can go to File > Save or press `Command + S` on your keyboard.
 
-Now, let's view the page. To do this, go to your Finder and open up the `build-your-own-website` folder. You should see a file called `index.html`. Double-click on it to open it up in your browser. You should see the changes that you made!
+Now, let's view the page. To do this, go to your Finder and open up the `website-starter` folder. You should see a file called `index.html`. Double-click on it to open it up in your browser. You should see the changes that you made!
 
 ## A quick note about HTML
 
