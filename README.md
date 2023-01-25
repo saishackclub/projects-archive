@@ -2,7 +2,7 @@
 
 📈 Open-source projects created by the SAIS Hack Club community.
 
-![banner](banner.jpg)
+![banner](./banners/og-banner.jpg)
 
 ## What is SAIS Hack Club?
 
@@ -18,7 +18,9 @@ Please read our [contributing guidelines](CONTRIBUTING.md) before contributing t
 
 ## How do I get started?
 
-If you're new to coding, we recommend starting with our [Introduction to Web Development](Introduction%20to%20Web%20Development/README.md) project. If you're already familiar with web development, you can start with any of the other projects.
+If you're new to coding, we recommend starting with our [Introduction to Web Development](Introduction%20to%20Web%20Development/README.md) project. If you're already familiar with web development, you can start with any of the other projects:
+
+- [Crunching data with Python](Crunching%20data%20with%20Python/README.md)
 
 ## How do I get help?
 
