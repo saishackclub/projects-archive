@@ -140,7 +140,7 @@ Hint: You can change the background color of an element using the `style` proper
 
 We are not going to cover much more Javascript in this course. However, if you want to learn more, I recommend checking out [Codecademy's Javascript course](https://www.codecademy.com/learn/introduction-to-javascript).
 
-Next up, we will learn about the amazing world of Javascript-based frameworks. We will talk about React, a popular Javascript framework that is used to build web applications. We will also begin our v2 of the portfolio project.
+Next up, we will [learn about the amazing world of Javascript-based frameworks.](Lesson_1_Intro_to_React.md) We will talk about React, a popular Javascript framework that is used to build web applications. We will also begin our v2 of the portfolio project.
 
 ## Resources
 
