@@ -131,4 +131,4 @@ Soon, we'll be learning about CSS, which is a language that we use to style our 
 
 Send a screenshot of your website to me via the support chat. I'd love to see what you've created! 🔥
 
-Let's keep going by [looking at a bit more HTML.](Lesson_2_Extending_HTML.md)
+Let's keep going by [looking at a bit more HTML.](Lesson_1_Extending_HTML.md)

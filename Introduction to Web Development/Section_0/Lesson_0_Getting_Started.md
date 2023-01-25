@@ -24,4 +24,4 @@ Before we get started, join this project's [support chat](https://chat.google.co
 
 **Note: Check out the kickoff slides for more information about this project here: <https://docs.google.com/presentation/d/1e18y-7lHQRATDVSnOIHdwarRjsNWpbklZWRLpZ8UIEE/edit?usp=sharing>**
 
-Now, [let's get started!](./Lesson_2_Init_Setup.md) 🚀
+Now, [let's get started!](./Lesson_1_Init_Setup.md) 🚀

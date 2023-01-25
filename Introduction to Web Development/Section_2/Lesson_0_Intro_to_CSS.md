@@ -83,4 +83,4 @@ The ID selector is used to select elements with a certain ID. For example, the f
 <p id="red-text">I'm red!</p>
 ```
 
-Ok, enough theory. [Let's get to work!](Lesson_2_Making_Your_Site_Fancy.md)
+Ok, enough theory. [Let's get to work!](Lesson_1_Making_Your_Site_Fancy.md)

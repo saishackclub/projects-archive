@@ -156,4 +156,4 @@ That's it! You've made your site look a lot nicer. You can add more content, cha
 
 Take some time to make your site look exactly how you want it to. You can add more content, change the colors, add images, etc. to make it look exactly how you want it to.
 
-Once you're done, you can move on to the next section, where we'll learn [how to deploy our site to the web using GitHub Pages!](Lesson_3_Deploying_Your_Site.md)
+Once you're done, you can move on to the next section, where we'll learn [how to deploy our site to the web using GitHub Pages!](Lesson_2_Deploying_Your_Site.md)

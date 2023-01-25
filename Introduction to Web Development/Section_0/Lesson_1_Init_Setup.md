@@ -76,4 +76,4 @@ If you're using VS Code for the first time, you might see a welcome screen. You 
 
 Post a screenshot of your VS Code window in the support chat. Make sure to include the `website-starter` folder in the screenshot. We're excited to see what you're working on! 🚀
 
-Now, [we can start coding!](../Section_1/Lesson_1_Intro_to_HTML.md) 🎉
+Now, [we can start coding!](../Section_1/Lesson_0_Intro_to_HTML.md) 🎉

@@ -52,4 +52,4 @@ Now that you've deployed your site, share it with the gang over at the community
 
 Now that you've deployed your site, you can share it with your friends and family. Of course, keep editing your site and making it look exactly how you want it to.
 
-Now, what if we want to add some extra functionality to our site? For example, what if we want to add a contact form? Well, we can do that with JavaScript. Let's [learn about JavaScript.](../Section_3/Lesson_1_Intro_to_JS.md)
+Now, what if we want to add some extra functionality to our site? For example, what if we want to add a contact form? Well, we can do that with JavaScript. Let's [learn about JavaScript.](../Section_3/Lesson_0_Intro_to_JS.md)

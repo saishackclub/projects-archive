@@ -55,4 +55,4 @@ This will create a web page that looks like this:
 
 In the next section, you'll learn about CSS, which is used to style web pages. You'll learn how to use CSS to change the color of text, add borders to elements, and more. It's a lot of fun, and your site would look so much better!
 
-[Let's dive into CSS! 🌈](../Section_2/Intro_to_CSS.md)
+[Let's dive into CSS! 🌈](../Section_2/Lesson_0_Intro_to_CSS.md)
