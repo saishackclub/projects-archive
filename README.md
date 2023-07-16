@@ -1,3 +1,17 @@
+<details>
+  <summary><b>Important announcement</b></summary>
+  <br>
+
+  We are migrating each project to their respective repositories, with the web development project moving to [saishackclub/website-starter](https://github.com/saishackclub/website-starter) and the Python data crunching project moving to [saishackclub/crunching-data](https://github.com/saishackclub/crunching-data)!
+
+  Of course, this will still be available to anyone who want to use this - the new project did have a change in style and is more of a crash course than a workshop. However, club meetings will begin to shift to newer materials.
+
+  See ya there!
+
+  \- Peter
+</details>
+
+
 # projects
 
 📈 Open-source projects created by the SAIS Hack Club community.
